@@ -1,2 +1,2 @@
 # transacid.github.io
-transacid.github.com
+transacid.github.io
